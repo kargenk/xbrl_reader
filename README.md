@@ -1,0 +1,2 @@
+# xbrl_reader
+xbrlファイルをごにょごにょするやつ
